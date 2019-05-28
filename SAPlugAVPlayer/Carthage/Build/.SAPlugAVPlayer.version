@@ -8,11 +8,11 @@
   "tvOS" : [
 
   ],
-  "commitish" : "246d2b918d871759fe4604ebc01440e9a51d4938",
+  "commitish" : "0.1.1",
   "iOS" : [
     {
       "name" : "SAPlugAVPlayer",
-      "hash" : "bae83d8e712e1039085c28672cc9a1202647026e6f716befd36ce0be508f8dd2",
+      "hash" : "d74ea853ddb71a8e36ab70adb66b6d00075ff556cc931179668864d9997f0bb1",
       "swiftToolchainVersion" : "5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
     }
   ]
